@@ -1,1 +1,18 @@
+$lentil_blue: #990012;
+
 @import "lentil";
+
+body {
+	background: image-url ("shawu2.jpg")
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+}
+.navbar-inner {
+	background: #282828;
+
+}
+div.header {
+	background: #282828; 
+}
